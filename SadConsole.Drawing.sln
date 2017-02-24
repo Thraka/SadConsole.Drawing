@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.25914.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SadConsole.Drawing", "SadConsole.Drawing.csproj", "{A1590881-77AA-4E44-AEDB-FDCC6356E1E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsTestApp", "WinFormsTestApp\WinFormsTestApp.csproj", "{E74B8EF7-3B80-44A1-9F8F-E6C24213BA40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{A1590881-77AA-4E44-AEDB-FDCC6356E1E6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A1590881-77AA-4E44-AEDB-FDCC6356E1E6}.ReleaseBuild|Any CPU.ActiveCfg = ReleaseBuild|Any CPU
 		{A1590881-77AA-4E44-AEDB-FDCC6356E1E6}.ReleaseBuild|Any CPU.Build.0 = ReleaseBuild|Any CPU
+		{E74B8EF7-3B80-44A1-9F8F-E6C24213BA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74B8EF7-3B80-44A1-9F8F-E6C24213BA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74B8EF7-3B80-44A1-9F8F-E6C24213BA40}.DebugBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74B8EF7-3B80-44A1-9F8F-E6C24213BA40}.DebugBuild|Any CPU.Build.0 = Debug|Any CPU
+		{E74B8EF7-3B80-44A1-9F8F-E6C24213BA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74B8EF7-3B80-44A1-9F8F-E6C24213BA40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E74B8EF7-3B80-44A1-9F8F-E6C24213BA40}.ReleaseBuild|Any CPU.ActiveCfg = Release|Any CPU
+		{E74B8EF7-3B80-44A1-9F8F-E6C24213BA40}.ReleaseBuild|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
